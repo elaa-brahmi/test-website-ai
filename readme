@@ -1,0 +1,4 @@
+run : 
+1 . pip install selenium 
+2 . pip install webdriver-manager
+How to execute : python -m unittest consultation_produits_test
